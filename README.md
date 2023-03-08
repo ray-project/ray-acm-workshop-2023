@@ -4,7 +4,7 @@
 
 <img src="https://technical-training-assets.s3.us-west-2.amazonaws.com/Generic/ray_logo.png" width="30%" loading="lazy">
 
-<a href="https://github.com/ray-project/ray-educational-materials"><img src="https://img.shields.io/github/stars/ray-project/ray-educational-materials?logo=Ray" alt="github-stars"></a>
+<a href="https://github.com/ray-project/ray-acm-workshop-2023"><img src="https://img.shields.io/github/stars/ray-project/ray-acm-workshop-2023?logo=Ray" alt="github-stars"></a>
 <a href="https://forms.gle/9TSdDYUgxYs8SA9e8"><img src="https://img.shields.io/badge/Ray-Join%20Slack-blue" alt="join-ray-slack"></a>
 <a href="https://discuss.ray.io/"><img src="https://img.shields.io/badge/Discuss-Ask%20Questions-blue" alt="discuss"></a>
 <a href="https://twitter.com/raydistributed"><img src="https://img.shields.io/twitter/follow/raydistributed?label=Follow" alt="twitter"></a>
