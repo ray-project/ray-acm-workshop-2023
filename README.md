@@ -1,6 +1,6 @@
-# Ray Educational Materials
+# Scaling Computer Vision Workloads with Ray
 
-© 2022, Anyscale Inc. All Rights Reserved
+© 2023, Anyscale Inc. All Rights Reserved
 
 <img src="https://technical-training-assets.s3.us-west-2.amazonaws.com/Generic/ray_logo.png" width="30%" loading="lazy">
 
@@ -9,14 +9,13 @@
 <a href="https://discuss.ray.io/"><img src="https://img.shields.io/badge/Discuss-Ask%20Questions-blue" alt="discuss"></a>
 <a href="https://twitter.com/raydistributed"><img src="https://img.shields.io/twitter/follow/raydistributed?label=Follow" alt="twitter"></a>
 
-[![Introductory notebooks test](https://github.com/ray-project/ray-educational-materials/actions/workflows/scheduled-test-introductory-modules.yml/badge.svg?branch=main)](https://github.com/ray-project/ray-educational-materials/actions/workflows/scheduled-test-introductory-modules.yml)
-[![Ray core notebooks test](https://github.com/ray-project/ray-educational-materials/actions/workflows/scheduled-test-ray-core.yml/badge.svg?branch=main)](https://github.com/ray-project/ray-educational-materials/actions/workflows/scheduled-test-ray-core.yml)
-[![Semantic segmentation notebooks test](https://github.com/ray-project/ray-educational-materials/actions/workflows/scheduled-test-semantic-segmentation.yml/badge.svg?branch=main)](https://github.com/ray-project/ray-educational-materials/actions/workflows/scheduled-test-semantic-segmentation.yml)
-[![Observability notebooks test](https://github.com/ray-project/ray-educational-materials/actions/workflows/scheduled-test-observability-modules.yml/badge.svg)](https://github.com/ray-project/ray-educational-materials/actions/workflows/scheduled-test-observability-modules.yml)
+Welcome to the Scaling Computer Vision Workloads with Ray Workshop!
 
-Welcome to a collection of education materials focused on [Ray](https://www.ray.io/), a distributed compute framework for scaling your Python and machine learning workloads from a laptop to a cluster.
+This 2-day workshop is intended to teach you what Ray, Ray Core, Ray AI Runtime are and how to use them to scale ML applications and utilize large compute clusters.
 
-## Recommended Learning Path
+During this event we will cover an introduction to Ray, and you’ll learn how to scale a computer vision workloads with Ray!
+
+## Training modules
 
 | Module                                                                                                                                                                                                    | Description                                                                                                 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
@@ -27,9 +26,9 @@ Welcome to a collection of education materials focused on [Ray](https://www.ray.
 | [Ray Core: Remote Classes as Actors, part 1](https://github.com/ray-project/ray-educational-materials/blob/main/Ray_Core/Ray_Core_3_Remote_Classes_part_1.ipynb)                                          | Work with stateful actors.                                                                                  |
 | [Ray Core: Remote Classes as Actors, part 2](https://github.com/ray-project/ray-educational-materials/blob/main/Ray_Core/Ray_Core_4_Remote_Classes_part_2.ipynb)                                          | Learn "Tree of Actors" pattern.                                                                             |
 | [Scaling batch inference](https://github.com/ray-project/ray-educational-materials/blob/main/Computer_vision_workloads/Semantic_segmentation/Scaling_batch_inference.ipynb)                               | Learn about scaling batch inference in computer vision with Ray.                                            |
-| [Optional: Batch inference with Ray Datasets](https://github.com/ray-project/ray-educational-materials/blob/main/Computer_vision_workloads/Semantic_segmentation/Batch_inference_with_Ray_Datasets.ipynb) | Bonus content for scaling batch inference using Ray Datasets.                                               |
 | [Scaling model training](https://github.com/ray-project/ray-educational-materials/blob/main/Computer_vision_workloads/Semantic_segmentation/Scaling_model_training.ipynb)                                 | Learn about scaling model training in computer vision with Ray.                                             |
-| [Ray observability part 1](https://github.com/ray-project/ray-educational-materials/blob/main/Observability/Ray_observability_part_1.ipynb)                                                               | Introducing the Ray State API and Ray Dashboard UI as tools for observing the Ray cluster and applications. |
+| [Ray observability](https://github.com/ray-project/ray-educational-materials/blob/main/Observability/Ray_observability_part_1.ipynb)                                                                      | Introducing the Ray State API and Ray Dashboard UI as tools for observing the Ray cluster and applications. |
+| [Optional: Batch inference with Ray Datasets](https://github.com/ray-project/ray-educational-materials/blob/main/Computer_vision_workloads/Semantic_segmentation/Batch_inference_with_Ray_Datasets.ipynb) | Bonus content for scaling batch inference using Ray Datasets.                                               |
 
 ## Connect with the Ray community
 
